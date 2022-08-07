@@ -1,0 +1,1035 @@
+@media (max-width:1199px) {
+    .service-bar h1 {
+
+        font-size: 18px !important;
+
+    }
+
+    .client-data h1 {
+
+        font-size: 27px !important;
+
+    }
+
+    .skil-title {
+        padding-bottom: 10px !important;
+    }
+
+    .skil-per ul li {
+        width: 70% !important;
+    }
+
+    .about-text .span-2 {
+
+        top: 15.3% !important;
+    }
+}
+
+@media (max-width:991px) {
+
+    .new {
+        display: none;
+    }
+
+    .navbar {
+        padding: 25px 20px !important;
+
+    }
+
+    .navbar-nav .nav-item {
+        margin-left: 0 !important;
+        margin-bottom: 10px;
+        display: inline-block;
+    }
+
+    .navbar-light .navbar-nav .nav-link::before {
+        bottom: 0 !important;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+    }
+
+    .head_bar h1 {
+
+        font-size: 33px !important;
+
+    }
+
+    .head_bar h2 {
+
+        font-size: 50px !important;
+    }
+
+    .owl-nav .owl-prev {
+
+        left: -10% !important;
+
+
+    }
+
+    .about-text .span-2 {
+
+        top: 11.5% !important;
+    }
+
+    .skil-per ul li {
+
+        width: 100% !important;
+
+
+    }
+
+    .new_service {
+        width: 50% !important;
+        margin: auto;
+        margin-bottom: 10px !important;
+    }
+
+    .client-data h2 {
+
+        font-size: 27px !important;
+    }
+
+    .client-data h1 {
+
+        font-size: 19px !important;
+    }
+
+    .new-story {
+        width: 100% !important;
+        margin-bottom: 5px;
+    }
+
+    .about-life h1 {
+
+        font-size: 35px !important;
+    }
+
+    .about-life .span-1 {
+        margin: auto;
+    }
+
+    .about-life .span-2 {
+
+        left: 50% !important;
+
+        top: 10% !important;
+    }
+
+    .clien-title h2 {
+
+        font-size: 22px !important;
+
+    }
+
+    .clien-title h3 {
+
+        font-size: 18px !important;
+
+    }
+
+    .clien {
+        margin-left: 15px !important;
+    }
+
+    .clien-head::before {
+
+        bottom: -4% !important;
+
+    }
+
+    .service-bar h1 {
+
+        font-size: 21px !important;
+
+    }
+
+}
+
+@media (max-width: 767px) {
+    body {
+        overflow-x: hidden !important;
+    }
+    .work ul li{
+        margin: 8px !important;
+    }
+    .skil-per ul li {
+
+        width: 30% !important;
+
+    }
+    .btn_web{
+        font-size: 18px !important;
+    }
+
+    .new {
+        display: none;
+    }
+
+    .new_service {
+        width: 95% !important;
+        margin: auto;
+
+    }
+
+    .navbar {
+        padding: 25px 20px !important;
+
+    }
+
+    .navbar-nav .nav-item {
+        margin-left: 0 !important;
+        margin-bottom: 10px;
+        display: inline-block;
+    }
+
+    .navbar-light .navbar-nav .nav-link::before {
+        bottom: 0 !important;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+    }
+
+    .head_bar h1 {
+        text-align: end !important;
+        font-size: 25px !important;
+        margin-top: 0 !important;
+    }
+
+    .head_bar h2 {
+        text-align: end !important;
+        font-size: 38px !important;
+    }
+
+    .owl-nav .owl-prev {
+
+        left: -10% !important;
+
+        width: 25px !important;
+
+        height: 25px !important;
+
+        top: 50% !important;
+
+    }
+
+    .owl-nav .owl-next {
+
+        right: 35% !important;
+        width: 25px !important;
+        height: 25px !important;
+        top: 50% !important;
+    }
+
+    .owl-nav .owl-next i {
+        font-size: 16px !important;
+    }
+
+    .owl-nav .owl-prev i {
+        font-size: 16px !important;
+    }
+
+    .about-text h1 {
+
+        font-size: 30px !important
+    }
+
+    .about-text .span-1 {
+
+        width: 70% !important;
+
+    }
+
+    .about-text .span-2 {
+
+        top: 4.1% !important;
+
+    }
+
+    .about-text .para-1 {
+
+        margin-top: 370px !important;
+    }
+
+    .img-about {
+        left: 50% !important;
+        width: 95% !important;
+        transform: translateX(-50%);
+    }
+
+    .skil-title {
+        width: 70% !important;
+    }
+
+    .skil-num {
+        width: 30% !important;
+    }
+
+    .about-text .span-3 {
+        width: 70% !important
+    }
+
+    .about-text .span-4 {
+
+        bottom: -4% !important;
+    }
+
+    .akib {
+        width: 90% !important;
+        margin: auto;
+    }
+
+    .btn-start h3 {
+        padding: 9px 25px !important;
+
+    }
+
+    .client-data h2 {
+
+        font-size: 28px !important
+    }
+
+    .client-data .client-logo {
+        width: 60px !important;
+        height: 60px !important;
+        display: flex;
+
+        justify-content: center;
+        align-items: center;
+    }
+
+    .client-data h1 {
+        font-size: 22px !important;
+
+    }
+
+    .client-row {
+        margin-top: 0 !important;
+    }
+
+    .client-data .client-logo {
+
+        margin-top: 15px !important;
+        margin-bottom: 15px !important;
+
+    }
+
+    .client-data {
+        margin-bottom: 50px;
+    }
+
+    .client-bar::after {
+        display: none;
+    }
+
+    .client-bar::before {
+        display: none;
+    }
+
+    .work ul li a {
+        font-size: 17px !important;
+        padding: 0 !important;
+    }
+
+    .work ul {
+        text-align: center;
+    }
+
+    .btn-learn-left {
+        margin-bottom: 15px;
+    }
+
+    .btn-learn-right {
+        margin-bottom: 15px;
+    }
+
+    .story {
+        display: none;
+
+    }
+
+    .akib-story {
+        display: block !important;
+    }
+
+    .story {
+        padding-bottom: 40px !important;
+    }
+
+    .story-head {
+        margin-top: 20px;
+
+    }
+
+    .work-akib {
+        width: 80% !important;
+        margin: auto;
+        margin-top: 20px;
+    }
+
+    .life_head h1 {
+        font-size: 28px !important;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .life_head .span-1 {
+        margin: auto !important;
+    }
+
+    .life_head .span-2 {
+
+        width: 9% !important;
+
+        left: 50% !important;
+
+        transform: translateX(-50%);
+
+        top: 11.5% !important;
+
+    }
+
+    .life_head p {
+        margin-top: 25px;
+    }
+
+    .feedback {
+        padding: 50px 0 !important;
+    }
+
+    .clien-head::before {
+        bottom: -4% !important;
+
+    }
+
+    .clien {
+
+        margin-left: 40px !important;
+
+    }
+
+    .clien-title h3 {
+        font-size: 16px !important;
+    }
+
+    .clien-title h2 {
+        font-size: 20px !important;
+
+    }
+
+    .touch form h2 {
+        font-size: 16px !important;
+    }
+
+    .touch form {
+        width: 90% !important;
+    }
+
+    .touch {
+        padding: 50px 0 !important;
+    }
+
+    form input[type="submit"] {
+
+        padding: 8px 16px !important;
+
+        font-size: 16px !important
+    }
+
+    .map-contact {
+        width: 100% !important;
+        height: 240px !important;
+        right: 0 !important;
+
+    }
+
+    .icon {
+        padding: 50px 0 !important;
+    }
+
+    .icon ul li {
+
+        margin: 5px !important;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    footer p {
+        font-size: 16px !important;
+
+    }
+
+    .head_title {
+        margin-top: 300px !important;
+        padding-bottom: 20px;
+    }
+
+    .about-text .para-1 {
+        margin-top: 772px !important;
+    }
+}
+
+@media (max-width: 750px) {
+    .about-text .para-1 {
+        margin-top: 755x !important;
+    }
+}
+
+@media (max-width: 720px) {
+    .about-text .para-1 {
+        margin-top: 725px !important;
+    }
+    .about-text .span-2 {
+        top: 4.3% !important;
+    }
+}
+
+@media (max-width: 690px) {
+    .about-text .para-1 {
+        margin-top: 695px !important;
+    }
+    .about-text .span-2 {
+        top: 4.4% !important;
+    }
+}
+
+@media (max-width: 650px) {
+    .about-text .para-1 {
+        margin-top: 655px !important;
+    }
+    .about-text .span-2 {
+        top: 4.6% !important;
+    }
+}
+
+@media (max-width: 615px) {
+    .about-text .para-1 {
+        margin-top: 620px !important;
+    }
+    .about-text .span-2 {
+        top: 4.8% !important;
+    }
+}
+
+@media (max-width: 580px) {
+    .about-text .para-1 {
+        margin-top: 585px !important;
+    }
+    .about-text .span-2 {
+        top: 5% !important;
+    }
+}
+
+@media (max-width: 575px) {
+    body {
+        overflow-x: hidden !important;
+    }
+
+    .new {
+        display: none;
+    }
+
+    .navbar {
+        padding: 25px 20px !important;
+
+    }
+
+    .navbar-nav .nav-item {
+        margin-left: 0 !important;
+        margin-bottom: 10px;
+        display: inline-block;
+    }
+
+    .navbar-light .navbar-nav .nav-link::before {
+        bottom: 0 !important;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+    }
+
+    .head_bar h1 {
+        text-align: center !important;
+        font-size: 24px !important;
+        margin-top: 0 !important;
+    }
+
+    .head_bar h2 {
+        text-align: center !important;
+        font-size: 30px !important;
+    }
+
+    .owl-nav .owl-prev {
+
+        left: -10% !important;
+
+        width: 25px !important;
+
+        height: 25px !important;
+
+        top: 150% !important;
+
+    }
+
+    .owl-nav .owl-next {
+
+        right: 35% !important;
+        width: 25px !important;
+        height: 25px !important;
+        top: 150% !important;
+    }
+
+    .owl-nav .owl-next i {
+        font-size: 16px !important;
+    }
+
+    .owl-nav .owl-prev i {
+        font-size: 16px !important;
+    }
+
+    .about-text h1 {
+
+        font-size: 30px !important
+    }
+
+    .about-text .span-1 {
+
+        width: 70% !important;
+
+    }
+
+    .about-text .span-2 {
+
+        top: 5.2% !important;
+
+    }
+
+    .about-text .para-1 {
+
+        margin-top: 370px !important;
+    }
+
+    .img-about {
+        left: 50% !important;
+        width: 95% !important;
+        transform: translateX(-50%);
+    }
+
+    .skil-title {
+        width: 70% !important;
+    }
+
+    .skil-num {
+        width: 30% !important;
+    }
+
+    .about-text .span-3 {
+        width: 70% !important
+    }
+
+    .about-text .span-4 {
+
+        bottom: -4% !important;
+    }
+
+    .akib {
+        width: 90% !important;
+        margin: auto;
+    }
+
+    .btn-start h3 {
+        padding: 9px 25px !important;
+
+    }
+
+    .client-data h2 {
+
+        font-size: 28px !important
+    }
+
+    .client-data .client-logo {
+        width: 60px !important;
+        height: 60px !important;
+        display: flex;
+
+        justify-content: center;
+        align-items: center;
+    }
+
+    .client-data h1 {
+        font-size: 22px !important;
+
+    }
+
+    .client-row {
+        margin-top: 0 !important;
+    }
+
+    .client-data .client-logo {
+
+        margin-top: 15px !important;
+        margin-bottom: 15px !important;
+
+    }
+
+    .client-data {
+        margin-bottom: 50px;
+    }
+
+    .client-bar::after {
+        display: none;
+    }
+
+    .client-bar::before {
+        display: none;
+    }
+
+    .work ul li a {
+        font-size: 17px !important;
+        padding: 0 !important;
+    }
+
+    .work ul {
+        text-align: center;
+    }
+
+    .btn-learn-left {
+        margin-bottom: 15px;
+    }
+
+    .btn-learn-right {
+        margin-bottom: 15px;
+    }
+
+    .story {
+        display: none;
+
+    }
+
+    .akib-story {
+        display: block !important;
+    }
+
+    .story {
+        padding-bottom: 40px !important;
+    }
+
+    .story-head {
+        margin-top: 20px;
+
+    }
+
+    .work-akib {
+        width: 80% !important;
+        margin: auto;
+        margin-top: 20px;
+    }
+
+    .life_head h1 {
+        font-size: 28px !important;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .life_head .span-1 {
+        margin: auto !important;
+    }
+
+    .life_head .span-2 {
+
+        width: 9% !important;
+
+        left: 50% !important;
+
+        transform: translateX(-50%);
+
+        top: 11.5% !important;
+
+    }
+
+    .life_head p {
+        margin-top: 25px;
+    }
+
+    .feedback {
+        padding: 50px 0 !important;
+    }
+
+    .clien-head::before {
+        bottom: -4% !important;
+
+    }
+
+    .clien {
+
+        margin-left: 40px !important;
+
+    }
+
+    .clien-title h3 {
+        font-size: 16px !important;
+    }
+
+    .clien-title h2 {
+        font-size: 20px !important;
+
+    }
+
+    .touch form h2 {
+        font-size: 16px !important;
+    }
+
+    .touch form {
+        width: 90% !important;
+    }
+
+    .touch {
+        padding: 50px 0 !important;
+    }
+
+    form input[type="submit"] {
+
+        padding: 8px 16px !important;
+
+        font-size: 16px !important
+    }
+
+    .map-contact {
+        width: 100% !important;
+        height: 240px !important;
+        right: 0 !important;
+
+    }
+
+    .icon {
+        padding: 50px 0 !important;
+    }
+
+    .icon ul li {
+
+        margin: 5px !important;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    footer p {
+        font-size: 16px !important;
+
+    }
+
+    .head_title {
+        margin-top: 300px !important;
+        padding-bottom: 20px;
+    }
+
+    .about-text .para-1 {
+        margin-top: 580px !important;
+    }
+}
+
+
+@media (max-width: 560px) {
+    .about-text .para-1 {
+        margin-top: 565px !important;
+    }
+}
+@media (max-width:556px){
+    .btn_web{
+        font-size: 18px !important;
+    }
+}
+@media (max-width:532px){
+    .btn_web{
+        font-size: 17px !important;
+    }
+}
+@media (max-width: 510px) {
+    .about-text .para-1 {
+        margin-top: 515px !important;
+    }
+
+    .about-text .span-2 {
+        top: 5.7% !important;
+    }
+    .btn_web{
+        font-size: 16px !important;
+    }
+}
+
+@media (max-width:490px) {
+    .about-text .span-2 {
+        top: 5.4% !important;
+    }
+
+    .clien {
+        margin-left: 25px !important;
+    }
+}
+
+@media (max-width:489px) {
+    .life_head .span-2 {
+
+        top: 11.3% !important;
+    }
+}
+
+@media (max-width:488px) {
+    .life_head .span-2 {
+
+        top: 11% !important;
+    }
+    
+        .btn_web{
+            font-size: 15px !important;
+        }
+    
+}
+
+@media (max-width: 470px) {
+    .about-text .para-1 {
+        margin-top: 475px !important;
+    }
+
+    .skil-per ul li {
+
+        width: 35% !important;
+
+    }
+
+    .life_head .span-2 {
+
+        top: 10.4% !important;
+    }
+}
+@media (max-width:464px){
+    .btn_web{
+        font-size: 14px !important;
+    }
+}
+@media (max-width: 460px) {
+    .work-akib {
+        width: 100% !important;
+    }
+}
+
+@media (max-width:447px) {
+    .life_head .span-2 {
+
+        top: 9.4% !important;
+    }
+
+    .skil-per ul li {
+
+        width: 40% !important;
+
+    }
+}
+
+@media (max-width: 444px) {
+    .head_bar h1 {
+        font-size: 21px !important;
+    }
+}
+@media (max-width:440px){
+    .btn_web{
+        font-size: 13px !important;
+    }
+}
+@media (max-width: 430px) {
+    .about-text .para-1 {
+        margin-top: 435px !important;
+    }
+
+    .about-text .span-2 {
+        top: 5.7% !important;
+    }
+}
+@media (max-width:417px){
+    .btn_web{
+        font-size: 12px !important;
+    }
+}
+@media (max-width:394px){
+    .btn_web{
+        font-size: 11px !important;
+    }
+}
+@media (max-width: 390px) {
+    .about-text .para-1 {
+        margin-top: 395px !important;
+    }
+
+    .about-text .span-2 {
+        top: 5.9% !important;
+    }
+
+    .clien {
+        margin-left: 20px !important;
+    }
+}
+@media (max-width:372px){
+    .btn_web{
+        font-size: 10px !important;
+    }
+}
+@media (max-width:363px) {
+    .life_head .span-2 {
+
+        top: 8.4% !important;
+    }
+}
+
+@media (max-width: 361px) {
+    .about-text .span-2 {
+        top: 5.7% !important;
+    }
+}
+
+@media (max-width:359px) {
+    .life_head .span-2 {
+
+        top: 8.1% !important;
+    }
+
+    .clien {
+        margin-left: 18px !important;
+    }
+}
+
+@media (max-width: 350px) {
+    .about-text .para-1 {
+        margin-top: 370px !important;
+    }
+    .btn_web{
+        font-size: 9px !important;
+    }
+}
+
+@media (max-width:336px) {
+    .life_head .span-2 {
+
+        top: 13% !important;
+    }
+
+    .clien {
+        margin-left: 15px !important;
+    }
+    .btn_web{
+        font-size: 9px !important;
+    }
+}
+
+@media (max-width: 324px) {
+    .head_bar h1 {
+        font-size: 16px !important;
+    }
+    .btn_web{
+        font-size: 8px !important;
+    }
+}
